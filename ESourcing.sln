@@ -8,6 +8,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Products", "Products", "{57D1F4E1-8BD5-4FD3-B83C-ADC237CFDD42}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E73C38D5-2BF0-4AE6-9150-D7E45689AE05}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\mimaridiagram.PNG = ..\..\..\mimaridiagram.PNG
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{5F090E1B-95B4-426E-8857-724B45BB8AF7}"
 EndProject
@@ -23,7 +26,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Order", "Order", "{ED07ACBD
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{EDAA2BBB-4957-4D73-AB06-57714048D207}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esourcing.Sourcing", "Esourcing.Sourcing\Esourcing.Sourcing\Esourcing.Sourcing.csproj", "{EBC2630C-BB3E-4AC9-9E7E-CE11603D971A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Esourcing.Sourcing", "Esourcing.Sourcing\Esourcing.Sourcing\Esourcing.Sourcing.csproj", "{EBC2630C-BB3E-4AC9-9E7E-CE11603D971A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
